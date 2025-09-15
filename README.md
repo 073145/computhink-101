@@ -1,4 +1,4 @@
-# µKIT-OPSEC / computhink-101
+computhink-101
 
 > Um repositório agnóstico de linguagem para dominar o **Pensamento Computacional**, explorando desde os fundamentos universais até aplicações em sistemas, ciência de dados e segurança.
 
