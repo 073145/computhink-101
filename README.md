@@ -20,7 +20,7 @@ A abordagem deste repositório é focada na comparação e no entendimento profu
 🗺️ Estrutura do Repositório
 O conteúdo está organizado em módulos temáticos progressivos. Cada pasta de exercício e cada subpasta de linguagem dentro do 00-Language-Playground/ contém seu próprio README.md com a descrição do problema, exemplos e desafios/dicas.
 
-00-Digital-Literacy-Fundamentals/
+* 00-Digital-Literacy-Fundamentals/
 Seu verdadeiro ponto de partida para a jornada no pensamento computacional. Aqui, estabelecemos as bases essenciais para a alfabetização digital e o letramento tecnológico, garantindo que os conceitos universais sejam compreendidos antes de qualquer código.
 
 Matemática Discreta Essencial: Conjuntos, relações, funções e combinatória aplicados à computação.
@@ -31,25 +31,25 @@ Lógica de Programação: Proposições, tabelas verdade, inferência lógica e 
 
 Representação Algorítmica: Diagramas de fluxo, fluxogramas (visualização de processos) e pseudocódigo (linguagem de design de algoritmo).
 
-00-Language-Playground/
+* 00-Language-Playground/
 Seu ponto de partida prático com a sintaxe! Aqui você encontrará exemplos rápidos e didáticos da sintaxe básica e das características idiomáticas de cada linguagem, perfeito para um "kickstart" ou para revisar conceitos fundamentais.
 
-01-Algoritmos-Universais/
+* 01-Algoritmos-Universais/
 A base da lógica e eficiência. Aqui exploramos os algoritmos clássicos de ordenação, busca e programação dinâmica que formam o alicerce de qualquer desenvolvedor.
 
-02-Estruturas-de-Dados-Fundamentais/
+* 02-Estruturas-de-Dados-Fundamentais/
 As formas de organizar e gerenciar dados. Implementações de listas, pilhas, filas, hashmaps, árvores e grafos, e as trade-offs de cada uma.
 
-03-Sistemas-e-Baixo-Nivel/
+* 03-Sistemas-e-Baixo-Nivel/
 Mergulhando no controle direto de hardware e recursos do sistema operacional. Tópicos incluem gerenciamento de memória, concorrência, I/O e conceitos para sistemas embarcados.
 
-04-Computacao-Cientifica-e-Analise-de-Dados/
+* 04-Computacao-Cientifica-e-Analise-de-Dados/
 Aplicando o pensamento computacional para modelar, simular e extrair insights do mundo. Inclui análise estatística, simulações numéricas e processamento de dados.
 
-05-Scripts-Automacao-Web-e-Multimidia/
+* 05-Scripts-Automacao-Web-e-Multimidia/
 Foco em interação, automação e criatividade. Abrange desde o processamento de texto e consumo de APIs até creative coding e síntese de áudio.
 
-06-InfoSec-e-Privacidade-Computacional/
+* 06-InfoSec-e-Privacidade-Computacional/
 Explorando o lado da segurança. Implementações de criptografia básica, ferramentas de análise de rede e técnicas de hacking ético para fortalecer a defesa de sistemas.
 
 ---
