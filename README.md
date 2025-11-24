@@ -1,4 +1,5 @@
-🧠 computhink-101: Dominando o Pensamento Computacional
+## 🧠 computhink-101: Dominando o Pensamento Computacional
+
 "Um repositório agnóstico de linguagem para dominar o Pensamento Computacional, explorando desde os fundamentos universais até aplicações em sistemas, ciência de dados e segurança."
 
 Bem-vindo ao meu espaço dedicado à exploração dos pilares da computação. Este projeto nasceu da paixão por entender como diferentes linguagens de programação abordam os mesmos problemas fundamentais, servindo como uma "Pedra de Roseta" para desenvolvedores, estudantes e entusiastas da tecnologia.
