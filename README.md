@@ -4,6 +4,8 @@
 
 Bem-vindo ao meu espaço dedicado à exploração dos pilares da computação. Este projeto nasceu da paixão por entender como diferentes linguagens de programação abordam os mesmos problemas fundamentais, servindo como uma "Pedra de Roseta" para desenvolvedores, estudantes e entusiastas da tecnologia.
 
+---
+
 🚀 Filosofia e Metodologia
 A abordagem deste repositório é focada na comparação e no entendimento profundo, seguindo três princípios-chave:
 
